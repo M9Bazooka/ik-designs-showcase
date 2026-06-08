@@ -4,8 +4,6 @@ A full-stack platform for a Hyderabad-based custom furniture studio: a guided or
 
 🔗 **Live:** [ikdesigns.in](https://ikdesigns.in)
 
-![Project Screenshot](screenshots/hero.png)
-*(Add a hero screenshot — see [screenshots/SCREENSHOTS_NEEDED.md](screenshots/SCREENSHOTS_NEEDED.md) for the full shot list)*
 
 ![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React_18-61DAFB?style=flat&logo=react&logoColor=black)
