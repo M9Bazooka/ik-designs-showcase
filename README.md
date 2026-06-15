@@ -2,7 +2,7 @@
 
 A full-stack platform for a Hyderabad-based custom furniture studio: a guided order builder for clients, public order tracking, and an internal admin system for running the entire business pipeline.
 
-🔗 **Live:** [ikdesigns.in](https://ikdesigns.in)
+🔗 **Live:** [ik-designs.in](https://ik-designs.in)
 
 
 ![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat&logo=next.js&logoColor=white)
@@ -259,7 +259,7 @@ Rather than treating consultations and orders as the same entity in different st
 
 ## Status & Roadmap
 
-**Status:** Live in production at [ikdesigns.in](https://ikdesigns.in), actively used by the studio for client intake and order management.
+**Status:** Live in production at [ik-designs.in](https://ik-designs.in), actively used by the studio for client intake and order management.
 
 **Planned next:**
 - Cloud-based photo storage to decouple uploads from the server's filesystem

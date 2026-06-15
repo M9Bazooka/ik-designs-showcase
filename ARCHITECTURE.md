@@ -188,7 +188,7 @@ graph TD
 graph LR
     Dev["Local Dev<br/>next dev + ngrok tunnel"] -->|git push| Repo[("Git Repository")]
     Repo --> Build["Next.js Build<br/>(SSR + API routes + static assets)"]
-    Build --> Runtime["Production Runtime<br/>ikdesigns.in"]
+    Build --> Runtime["Production Runtime<br/>ik-designs.in"]
     Runtime --> PG[("Managed PostgreSQL")]
     Runtime --> Disk["Server Filesystem<br/>public/uploads/"]
 ```
